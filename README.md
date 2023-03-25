@@ -1,0 +1,1 @@
+参考博客：[Java多种方式解决生产者消费者问题](https://blog.csdn.net/ldx19980108/article/details/81707751)
